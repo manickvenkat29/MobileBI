@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         print("Mark2 is \(marks.mark2)")
         print("Mark3 is \(marks.mark3)")
     }
+    /*
+ hdghdfdhydtydtydtydtydtydtydt
+ */
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
